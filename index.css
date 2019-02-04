@@ -613,20 +613,22 @@ a:hover {
     }
     
 .home {
-    height: 60vw;  
-}
+        height: 180vw;
+    }
 
-.home .portfolio {
-    top:27vw; 
-}
+    .home .portfolio {
+        top: 70vw;
+    }
 
-.home .name {
-    top:41vw;
-}
-    
-.home .year {
-    top: 35vw;
-}
+    .home .name {
+        top: 84vw;
+    }
+
+    .home .year {
+        top: 78vw;
+        left: 11vw;
+        letter-spacing: .3vw;
+    }
     
 .projects {
     overflow: hidden;
